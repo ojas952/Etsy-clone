@@ -1,0 +1,25 @@
+.footer2 {
+    background-color: #232347;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lefts {
+    padding: 40px;
+}
+.text {
+    color: white;
+}
+.rights {
+    padding: 40px;
+}
+.unorder {
+    list-style: none;
+    color: white;  
+}
+.list_item {
+    display: inline-block;
+    margin-left: 15px;
+    text-decoration: underline; 
+}

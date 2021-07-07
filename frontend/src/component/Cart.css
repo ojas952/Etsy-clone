@@ -1,0 +1,38 @@
+.maincart {
+    
+    padding: 35px;
+    width: 50%;
+    margin: auto;
+}
+.cart {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 10px;
+}
+.cartimg {
+    height: 10rem;
+    width: 10rem;
+}
+.carttext {
+    width: 15rem;
+    text-align: center;
+}
+.cartbtn {
+    width: 7.5rem;
+    text-align: center;
+}
+
+.cartimg img {
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.cartbtn button {
+    background: none;
+    border: none;
+    color: red;
+    outline: none;
+}
+.cartbtn button:hover {
+    text-decoration: underline;
+}

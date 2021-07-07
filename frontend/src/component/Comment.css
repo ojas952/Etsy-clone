@@ -1,0 +1,22 @@
+.commenttext {
+    height: 100px;
+    width: 100%;
+    border-radius: 5px;
+}
+.commenttext:focus {
+    background-color: 	#F5F5F5;
+}
+
+.commentbtndiv {
+    margin-top: 15px;
+    text-align: center;
+}
+.commentbtn {
+    background: none;
+    border: 1px solid black;
+    padding: 10px 50px;
+    background-color:#F5F5F5 ;
+}
+.commentbtn:hover {
+    box-shadow: 3px 6px 10px black;
+}

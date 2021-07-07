@@ -1,0 +1,33 @@
+.full_nav {
+    border-bottom: 1px solid grey;
+ }
+.newproduct {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+label {
+    font-size: 20px;
+}
+.forminput {
+    padding: 15px;
+    width: 70vw;
+    font-size: 1.2rem;
+    border-radius: 6px;
+    margin-bottom:15px;
+    border: 1px solid #6c757d;
+}
+.btn {
+    text-align: center;
+}
+.newproductbtn {
+    border: none;
+    outline: none;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 30px;
+    background-color: #6c757d;
+}
+.newproductbtn:hover {
+    border: 1px solid #6c757d;
+}

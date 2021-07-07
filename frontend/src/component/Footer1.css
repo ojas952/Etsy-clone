@@ -1,0 +1,61 @@
+.footer1 {
+    background-color: #2F466C;
+    min-height: 250px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+.overall {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+    width: 90vw;
+    margin: auto;
+    flex:1;
+}
+.col {
+    flex: 1;
+    padding-bottom: 20px;
+}
+.col .list li:hover {
+    text-decoration: underline;
+}
+.list {
+    list-style-type: none;
+    color: white;
+    line-height: 2.3rem;
+}
+
+.querybtns {
+    padding-top: 30px;
+}
+.querybuttons {
+    padding: 12px;
+    margin-left: 30px;
+    background:none;
+    border-radius:50px 50px 50px 50px;
+    font-size: 15px;
+    border: 2px solid white;
+    color: white;
+}
+.querybuttons:hover {
+    border: 3px solid white;
+}
+.icons {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.iconssub {
+    color: white;
+    margin-right: 15px;   
+}
+.iconssub {
+        color: white;
+        margin-right: 15px;   
+}
+.iconssub {
+    color: white;
+    margin-right: 15px;   
+}

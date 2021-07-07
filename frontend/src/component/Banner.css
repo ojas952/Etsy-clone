@@ -1,0 +1,42 @@
+.banner {
+    background-color: #cce3de;
+    min-height: 330px;
+    height: 100%;
+}
+.banner .one {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+.banner .two {
+    text-align: center;
+    padding-top: 20px;
+}
+.images {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    width: 90vw;
+    margin: auto;
+    padding: 20px;
+}
+.img_div {
+    flex: 1;
+    text-align: center;
+}
+.banner_img_text {
+    text-align: center;
+    padding-top:10px;
+    padding-bottom: 25px;
+}
+h5 {
+    display: inline;
+}
+.img {
+    height: 10em;
+    width: 10em;
+    border-radius: 50%;
+}
+.arrow {
+    font-weight: 900;
+}

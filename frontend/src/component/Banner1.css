@@ -1,0 +1,55 @@
+.banner1 {
+    background-color: #FDEBD2;
+    width: 100%;
+    min-height: 650px;
+    margin-top: 50px;
+}
+.heading {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 3.5rem;
+
+}
+.subheading {
+    text-align: center;
+}
+.features {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90vw;
+    margin: auto;
+    flex:1;
+    padding-top:50px;
+}
+.fea {
+    flex: 1;
+    
+}
+.feature_heading {
+    font-size: 2.5rem;
+    text-align: center;
+}
+.feature_subheading {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.query {
+    padding: 30px;
+    text-align: center;
+}
+.querybtn {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.querybutton {
+    padding: 20px;
+    background:none;
+    border-radius: 50px;
+    font-size: 22px;
+    border: 2px solid black;
+}
+.querybutton:hover {
+    border: 3px solid black;
+}
